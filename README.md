@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Welcome%20My%20History&fontSize=80)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square6logo=Python&logoColor=white"/>

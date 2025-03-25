@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I Will Be the Top Engineer.<br/>
+  #### 👊: I Will Become the Best Engineer.<br/>
   #### :fire: I aim to become a Cloud AI Engineer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
@@ -71,5 +71,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Welcome%20My%20History&fontSize=80)
 

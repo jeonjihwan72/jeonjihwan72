@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=Blur&color=0:ddffdd,100:ddeeff&height=300&section=header&text=Welcome%20My%20History&fontSize=80)
+  ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Welcome%20My%20History&fontSize=80)
   
 </div>
 

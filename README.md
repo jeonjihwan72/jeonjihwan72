@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <!--Body-->
   
   ## 👀 About Me
-  #### 👊: I Will Become the Best Engineer.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### ⏳: I Will Become the Best Engineer.<br/>
+  #### 👊: I do not limit myself to any particular field of study.<br/>
+  #### 🎒: Currently studying Computer Engineering at Hanbat National University(HBNU).
   <br/>
   <br/>
   

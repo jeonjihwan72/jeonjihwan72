@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
   <!--Android Studio-->
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=black"/>
   <br/>
   <br/>
   

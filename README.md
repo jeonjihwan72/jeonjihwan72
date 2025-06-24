@@ -44,14 +44,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VerilogHDL-33CC00?style=flat-square&logo=V&logoColor=white"/>
   <br/>
   
-  ### ETC
+  ### Platform
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
   <!--Android Studio-->
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=black"/>
   <br/>
   <br/>
-  
+
+  ## Participated Program
+  <!--LLM Drone-->
+  Drone Tello with LLM
+    - [Day 01-1](https://github.com/jeonjihwan72/DJI-Tello-Class01.git)
+    - [Day 01-2](https://github.com/jeonjihwan72/DJI-Tello-Class-HBNU.git)
+    - [Day 02](https://github.com/jeonjihwan72/DJI-Tello-Class02.git)
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonjihwan72)](https://github.com/jeonjihwan72/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonjihwan72)](https://github.com/jeonjihwan72/github-readme-stats)

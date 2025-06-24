@@ -53,12 +53,22 @@ Here are some ideas to get you started:
   <br/>
 
   ## Participated Program
-  <!--LLM Drone-->
-  🚁 **Drone Tello with LLM** <br/>
+  <!-- LLM을 활용한 텔로 조작 -->
+  🚁 **거대언어모델 활용 드론 프로그래밍** <br/>
   &nbsp;&nbsp;- [Day 1](https://github.com/jeonjihwan72/DJI-Tello-Class01.git): Basic Tello Operations Using Library 1 <br/>
   &nbsp;&nbsp;- [Day 1](https://github.com/jeonjihwan72/DJI-Tello-Class-HBNU.git): Basic Tello Operations Using Library 2 <br/>
   &nbsp;&nbsp;- [Day 2](https://github.com/jeonjihwan72/DJI-Tello-Class02.git): Tello Control Using Voice Commands <br/>
   <br/>
+  <br/>
+
+  ## Personal Project
+  <!-- LLM과 Open Api를 활용한 질병 추적 -->
+  💊 **Gemini 활용 질병 추적 어플리케이션**<br/>
+  &nbsp;&nbsp;- Project Overview PDF <br/>
+  &nbsp;&nbsp;- [Project Link](https://github.com/jeonjihwan72/Medi-AI-Project.git) <br/>
+  <br/>
+  <!--Verilog HDL을 활용한 알람 시계-->
+  ⏰
 
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonjihwan72)](https://github.com/jeonjihwan72/github-readme-stats)

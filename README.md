@@ -32,24 +32,27 @@ Here are some ideas to get you started:
   
   ## 🧱 Tech Stack
   ### Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <!--CPP-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/>
-  <!--JAVA-->
-  <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <!--Verilog HDL-->
-  <img src="https://img.shields.io/badge/Verilog-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
+  <center>
+    <!--Python-->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+    <!--CPP-->
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/>
+    <!--JAVA-->
+    <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+    <!--HTML5-->
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <!--Verilog HDL-->
+    <img src="https://img.shields.io/badge/Verilog-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
+  </center>
   <br/>
   
   ### Platform
-  <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
-  <!--Android Studio-->
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=black"/>
-  <br/>
+  <center>
+    <!--Unity-->
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
+    <!--Android Studio-->
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=black"/>
+  </center>
   <br/>
 </div>
 

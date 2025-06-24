@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <!--Verilog HDL-->
-  <img src="https://img.shields.io/badge/VerilogHDL-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
   <br/>
   
   ### Platform

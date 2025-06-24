@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
   ## Participated Program
   <!--LLM Drone-->
-  🚁 Drone Tello with LLM <br/>
-  &nbsp;&nbsp;- [Day 01-1](https://github.com/jeonjihwan72/DJI-Tello-Class01.git) <br/>  
-  &nbsp;&nbsp;- [Day 01-2](https://github.com/jeonjihwan72/DJI-Tello-Class-HBNU.git) <br/>  
-  &nbsp;&nbsp;- [Day 02](https://github.com/jeonjihwan72/DJI-Tello-Class02.git) <br/> 
+  🚁 **Drone Tello with LLM** <br/>
+  &nbsp;&nbsp;- [Day 01-1](https://github.com/jeonjihwan72/DJI-Tello-Class01.git) <br/>
+  &nbsp;&nbsp;- [Day 01-2](https://github.com/jeonjihwan72/DJI-Tello-Class-HBNU.git) <br/>
+  &nbsp;&nbsp;- [Day 02](https://github.com/jeonjihwan72/DJI-Tello-Class02.git) <br/>
   <br/>
 
   ## 🤔 Github Stats

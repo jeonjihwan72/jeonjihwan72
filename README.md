@@ -35,20 +35,20 @@ Here are some ideas to get you started:
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <!--CPP-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/>
   <!--JAVA-->
-  <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <!--Verilog HDL-->
-  <img src="https://img.shields.io/badge/VerilogHDL-33CC00?style=flat-square&logo=V&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VerilogHDL-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
   <br/>
   
   ### Platform
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
   <!--Android Studio-->
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=black"/>
   <br/>
   <br/>
 

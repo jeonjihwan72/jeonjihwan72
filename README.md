@@ -60,13 +60,13 @@ Here are some ideas to get you started:
 - [Day 2](https://github.com/jeonjihwan72/DJI-Tello-Class02.git): Tello Control Using Voice Commands 
 
 
-
 ## Personal Project
 
 💊 **Medi-AI** 
   > **Gemini를 활용한 질병 추론 어플리케이션**
   > - Project Overview PDF 
-  > - [Project Link](https://github.com/jeonjihwan72/Medi-AI-Project.git) 
+  > - [Project Link](https://github.com/jeonjihwan72/Medi-AI-Project.git)
+
 
 ⏰ **ChronoLogic**
   > **Verilog HDL을 활용한 알람 시계 설계**

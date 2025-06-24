@@ -69,8 +69,8 @@ Here are some ideas to get you started:
   <br/>
   <!--Verilog HDL을 활용한 알람 시계-->
   ⏰ **Verilog HDL을 활용한 알람 시계 설계** <br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;- Project Overview PDF <br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;- [Project Link](https://github.com/jeonjihwan72/ChronoLogic.git) <br/>
+    > - Project Overview PDF <br/>
+    > - [Project Link](https://github.com/jeonjihwan72/ChronoLogic.git) <br/>
   <br/>
 
   ## 🤔 Github Stats

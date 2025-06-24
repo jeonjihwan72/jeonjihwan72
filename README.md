@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
   ## 🧱 Tech Stack
   ### Language
-  <center>
+  <div style="text-align: center;">
     <!--Python-->
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
     <!--CPP-->
@@ -43,16 +43,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <!--Verilog HDL-->
     <img src="https://img.shields.io/badge/Verilog-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
-  </center>
+  </div>
   <br/>
   
   ### Platform
-  <center>
+  <div style="text-align: center;">
     <!--Unity-->
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
     <!--Android Studio-->
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=black"/>
-  </center>
+  </div>
   <br/>
 </div>
 

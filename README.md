@@ -51,6 +51,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=black"/>
   <br/>
   <br/>
+</div>
 
   ## Participated Program
   <!-- LLM을 활용한 텔로 조작 -->
@@ -72,7 +73,8 @@ Here are some ideas to get you started:
     > - Project Overview PDF <br/>
     > - [Project Link](https://github.com/jeonjihwan72/ChronoLogic.git) <br/>
   <br/>
-
+  
+<div>
   ## 🤔 Github Stats
   [![Jeonjihwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonjihwan72)](https://github.com/jeonjihwan72/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonjihwan72)](https://github.com/jeonjihwan72/github-readme-stats)

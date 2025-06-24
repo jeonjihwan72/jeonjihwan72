@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <!--Verilog HDL-->
+  <img src="https://img.shields.io/badge/Verilog HDL-33CC00?style=flat-square&logo=V&logoColor=white"/>
   <br/>
   
   ### ETC

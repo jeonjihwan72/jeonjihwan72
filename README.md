@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   > **Gemini를 활용한 질병 추론 어플리케이션**
   > - Project Overview PDF 
   > - [Project Link](https://github.com/jeonjihwan72/Medi-AI-Project.git)
-
+</br>
 
 ⏰ **ChronoLogic**
   > **Verilog HDL을 활용한 알람 시계 설계**

@@ -63,6 +63,11 @@ Here are some ideas to get you started:
 
 ## Personal Project </br>
 
+**Oblivion**
+  > **Unity를 활용한 게임 제작**
+  > - 제작 기간 : 2024.11. ~ 2024.12.
+  > - [Project Overview PDF](https://github.com/jeonjihwan72/StorageRepository/raw/main/pdf/oblivion.pdf)
+
 💊 **Medi-AI** 
   > **Gemini를 활용한 질병 추론 어플리케이션**
   > - Project Overview PDF 

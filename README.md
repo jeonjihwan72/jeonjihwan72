@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ☁️ **Naver Cloud Academy 1기**
   > **네이버 클라우드 플랫폼을 중심으로 한 클라우드 실무 역량 증진 프로그램**
-  > - Period : 2025.06 ~ 2025.07
+  > - Period : 2025.06. ~ 2025.07.
 
 🚁 **거대언어모델 활용 드론 프로그래밍** 
   > - [Day 1](https://github.com/jeonjihwan72/DJI-Tello-Class01.git): Basic Tello Operations Using Library 1

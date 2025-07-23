@@ -39,22 +39,9 @@ Here are some ideas to get you started:
   <!--JAVA-->
   <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <!--Verilog HDL-->
-  <img src="https://img.shields.io/badge/Verilog-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
-  <br/>
-  
-  ### Platform
-  <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
-  <!--Android Studio-->
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=black"/>
-  <br/>
-</div>
+  <img src="https://img.shields.램**
+  > - Period : 2025.06 ~ 2025.07
 
-</br>
-
-## Participated Program
 🚁 **거대언어모델 활용 드론 프로그래밍** 
   > - [Day 1](https://github.com/jeonjihwan72/DJI-Tello-Class01.git): Basic Tello Operations Using Library 1
   > - [Day 1](https://github.com/jeonjihwan72/DJI-Tello-Class-HBNU.git): Basic Tello Operations Using Library 2

@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <!--CPP-->
   <img src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <!--JAVA-->
-  <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <!--Verilog HDL-->

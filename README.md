@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <!--라이브러리-->
   <!--SpringBoot-->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <!--TensorFlow-->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <br>
 <!--플랫폼-->
   <!--Unity-->

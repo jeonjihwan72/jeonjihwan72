@@ -42,6 +42,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <!--Verilog HDL-->
   <img src="https://img.shields.io/badge/Verilog-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS-33CC00?style=for-the-badge&logo=CSS&logoColor=white"/>
+
+  
   <br>
 <!--라이브러리-->
   <!--SpringBoot-->

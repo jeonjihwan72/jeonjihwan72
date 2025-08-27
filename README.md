@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <!--CPP-->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/>
+  <img src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <!--JAVA-->
   <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=java&logoColor=white"/>
   <!--HTML5-->

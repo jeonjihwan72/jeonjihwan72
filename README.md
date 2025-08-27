@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <!--Verilog HDL-->
   <img src="https://img.shields.io/badge/Verilog-33CC00?style=for-the-badge&logo=V&logoColor=white"/>
   <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS-33CC00?style=for-the-badge&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-7A43B6?style=for-the-badge&logo=CSS&logoColor=white"/>
 
   
   <br>

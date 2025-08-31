@@ -76,9 +76,8 @@ Here are some ideas to get you started:
   > - Period : 2025.06. ~ 2025.07.
 
 🚁 **거대언어모델 활용 드론 프로그래밍** 
-  > - [Day 1](https://github.com/jeonjihwan72/DJI-Tello-Class01.git): Basic Tello Operations Using Library 1
-  > - [Day 1](https://github.com/jeonjihwan72/DJI-Tello-Class-HBNU.git): Basic Tello Operations Using Library 2
-  > - [Day 2](https://github.com/jeonjihwan72/DJI-Tello-Class02.git): Tello Control Using Voice Commands 
+  > **LLM 기반의 지능형 음성-비전 드론 제어 체험 프로그램**
+  > - Period : 2025.01. 
 
 
 ## Personal Project </br>

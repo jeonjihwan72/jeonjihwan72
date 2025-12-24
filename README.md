@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## 🧱 Tech Stack ( Learning )
 <!--프로그래밍 언어-->
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>

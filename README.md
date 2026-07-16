@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Welcome%20My%20History&fontSize=80)
-  
+  <!-- 
+  ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Welcome%20My%20History&fontSize=80) 
+  -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  </picture>  
 </div>
 
 <div>

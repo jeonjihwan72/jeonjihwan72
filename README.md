@@ -74,6 +74,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=black"/>
   <br/>
 </div>
+
+## Current Project
+
+🤖 **2026 국립한밭대학교 캡스톤디자인**
+  > **주제**: 인공근육 기반 구동 기술 강화학습
+  > - Period: 2026.01. ~ 
   
 ## Participated Program
 

@@ -79,7 +79,9 @@ Here are some ideas to get you started:
 
 🤖 **2026 국립한밭대학교 캡스톤디자인**
   > **주제**: 인공근육 기반 구동 기술 강화학습
-  > - Period: 2026.01. ~ 
+  > - Period: 2026.01. ~
+
+🤝 **깃허브 뉴비를 위한 협업툴**
   
 ## 🧾 Participated Program
 

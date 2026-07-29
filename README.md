@@ -75,13 +75,13 @@ Here are some ideas to get you started:
   <br/>
 </div>
 
-## Current Project
+## 👨‍💻 Current Project
 
 🤖 **2026 국립한밭대학교 캡스톤디자인**
   > **주제**: 인공근육 기반 구동 기술 강화학습
   > - Period: 2026.01. ~ 
   
-## Participated Program
+## 🧾 Participated Program
 
 🏭 **2026-1 AI 반도체 기초 공정 아카데미**
   > **AI 반도체 산업 구조를 비롯한 최근 기술 동향 파악 및 반도체 소자 제작 공정 실습 프로그램**
